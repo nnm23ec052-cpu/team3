@@ -48,7 +48,7 @@ Focus on **optimal plant growth**, **minimal human intervention**, and **resourc
 
 ![Video Thumbnail](video-thumbnail.png)
 
-[Click here to view/download the full video](video.mp4)
+[Click here to view/download the full video](https://drive.google.com/file/d/1-emYEYN2hKDlRQIWTa-rg6ttCQ02Sn_n/view?usp=drivesdk)
 
 
 ---
