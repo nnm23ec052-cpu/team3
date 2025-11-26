@@ -25,7 +25,7 @@ Focus on **optimal plant growth**, **minimal human intervention**, and **resourc
 ## 🛠️ Required Components
 
 ### Hardware
-- Raspberry Pi Pico W (Wi-Fi enabled)
+- Raspberry Pi Pico 2W (Wi-Fi enabled)
 - DHT22 sensor (temperature & humidity)
 - Capacitive soil moisture sensor
 - Relay module (to control pump & fan)
@@ -36,7 +36,7 @@ Focus on **optimal plant growth**, **minimal human intervention**, and **resourc
 
 ### Software
 - **IDE:** Thonny (MicroPython)
-- **Firmware:** MicroPython UF2 for Raspberry Pi Pico W
+- **Firmware:** MicroPython UF2 for Raspberry Pi Pico 2W
 - **Libraries:**  
   - `network` (Wi-Fi)  
   - `urequests` (HTTP requests)  
