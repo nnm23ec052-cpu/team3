@@ -42,7 +42,7 @@ Focus on **optimal plant growth**, **minimal human intervention**, and **resourc
   - `urequests` (HTTP requests)  
   - `dht` (DHT22 sensor)  
   - `machine` (GPIO, ADC, I2C)  
-  - `ch1116` (OLED driver)
+  - `ch1116` (OLED driver).
 
  ## Project Video
 
